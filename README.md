@@ -1,5 +1,11 @@
 # Together - Contact Tracing through Self-Reporting
 
+This is the project framework I submitted for IBM CALL FOR CODE 2020 Hackathon, answering to global COVID-19 challenges. 
+https://developer.ibm.com/events/2020-call-for-code-global-challenge-takes-on-covid-19/
+
+
+------------------
+
 App Summary: 
 Self-reporting, integrated testing, data analysis on home treatment patients. 
 
